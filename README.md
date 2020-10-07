@@ -1,2 +1,2 @@
 # pygameTicTacToe
-Tic Tac Toe made with python using pygame with ai
+Tic Tac Toe made with python using pygame with ai (aka a bunch of if statements LOL)
